@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Priority dropdown option styling */
+select option[value="high"] {
+  color: rgb(17 24 39);
+  background-color: white;
+}
+
+select option[value="medium"] {
+  color: rgb(17 24 39);
+  background-color: white;
+}
+
+select option[value="low"] {
+  color: rgb(17 24 39);
+  background-color: white;
+}
